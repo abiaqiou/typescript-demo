@@ -35,4 +35,9 @@ module.exports = {
     port: 3000,
     open: true,
   },
+
+  // 通知 webpack 哪些文件类型是模块
+  resolve: {
+    extensions: ['.ts', '.js'],
+  },
 }
