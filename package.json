@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/abiaqiou/typescript-demo#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
     "ts-loader": "^8.0.18",
     "typescript": "^4.2.3",
     "webpack": "^5.26.0",
